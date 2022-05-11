@@ -77,31 +77,31 @@ let producto11={
 }
 
 let producto12={
-    nombre:"producto12",
+    nombre:"Camiseta rodolfo Auronplay",
     precio:500000,
     estado:"Nuevo",
-    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20gris%20de%20the%20owl%20house%20lumity%20grom%20versi%C3%B3n.jpg?alt=media&token=7ab7efec-080c-4550-b1c5-ead0f9a7882e"
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20manga%20larga%20de%20rodolfo%20auronplay.jpg?alt=media&token=caaf43e2-d8ee-4350-abea-21dd0683fc0c"
 }
 
 let producto13={
-    nombre:"producto13",
+    nombre:"Conjunto para hombre de blazer con sueter negro",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/blazer-negro-con-jersey-cuello-alto.jpg?alt=media&token=96ef658d-a21e-44f1-a059-ba9ae6dd80b7"
 }
 
 let producto14={
-    nombre:"producto14",
+    nombre:"Nike Mercurial Superfly Dragonfly",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Nike%20Mercurial%20superfly%20Dragonfly.jpg?alt=media&token=11e23363-4fb9-4154-9cf3-345fdebed529"
 }
 
 let producto15={
-    nombre:"producto15",
+    nombre:"Nike Mercurial CR7 Chapter 5",
     precio:500000,
     estado:"Nuevo",
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Nike%20Mercurial%20CR7%20Chapter%205.jpg?alt=media&token=296652ab-71a2-4146-b204-161520f1c33b"
 }
 
 //ARREGLO
@@ -124,7 +124,24 @@ let productos=Array(
 )
 
 //RECORRO EL ARREGLO
+let contenedor = document.getElementById("contenedor")
 productos.forEach(function(producto){
-    console.log(producto.nombre)
+ 
+    let foto=document.createElement("img")
+    foto.classList.add("w-100","img-fluid")
+    foto.src=producto.foto
+
+    let columna = document.createElement ("div")
+    columna.classList.add ("col")
+
+
+    let tarjeta = document.createElement ("div")
+    tarjeta.classList.add ("card")
+    tarjeta.appendChild(foto)
+    columna.appendChild(tarjeta)
+    contenedor.appendChild(columna)
+
+ 
+
 })
 
