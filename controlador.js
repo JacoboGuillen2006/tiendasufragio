@@ -192,38 +192,152 @@ let producto24={
 }
 
 let producto25={
-    nombre:"",
-    precio:1,
+    nombre:"Camiseta de Colombia 2021",
+    precio:60000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20de%20colombia%20colombia%202022.jpg?alt=media&token=f730e1fb-0902-4a14-a4a8-8776f1c1adf2"
 }
 
 let producto26={
-    nombre:"",
-    precio:1,
+    nombre:"Camiseta de Colombia manga larga 2021",
+    precio:63000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20manga%20larga%20colombia%202021.jpg?alt=media&token=1cacf7c4-c75b-4b02-b06b-aa2ee2b3b978"
 }
 
 let producto27={
-    nombre:"",
-    precio:1,
+    nombre:"Camiseta de Alemania Euro 2020",
+    precio:70000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20de%20alemania%20euro%202020.jpg?alt=media&token=38e95eb4-be47-4473-8e86-73208a7f3064"
 }
 
 let producto28={
-    nombre:"",
-    precio:1,
+    nombre:"Camiseta de Alemania visitante Euro 2020",
+    precio:70000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20de%20alemania%20visitante%20euro%202020.jpg?alt=media&token=f6fe57ef-181d-4c78-a8ac-ea5dfbb0ab9e"
 }
 
 let producto29={
+    nombre:"Zapatos grises para hombres",
+    precio:54000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Zapatos%20grises%20para%20hombre.jpg?alt=media&token=c89862c8-0d14-4e13-85c4-0b7f276034fe"
+}
+
+let producto30={
+    nombre:"Cuaderno de Dragon ball de 100 hojas",
+    precio:1,
+    estado:true,
+    popularidad:4,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/cuaderno%20de%20100%20hojas%20de%20dragon%20ball.jpg?alt=media&token=ed30d992-9586-40e5-b52a-46d8c5e2a82d"
+}
+
+let producto31={
+    nombre:"PC gamer con 4 monitores incluidos",
+    precio:5500000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/PC%20gamer%20con%204%20monitores%20incluidos.jpg?alt=media&token=bf9ca3bd-4cde-465c-addc-3283cc944aff"
+}
+let producto32={
+    nombre:"Camiseta holgada negra",
+    precio:59000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20holgada%20negra.jpg?alt=media&token=0ea07be2-c65d-4d90-a55d-c2319d953cfb"
+}
+let producto33={
+    nombre:"Loción CR7 Game On",
+    precio:129000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/CR7%20Game%20On.jpg?alt=media&token=fa96b273-ceec-441e-b753-454a7dc6e38b"
+}
+let producto34={
+    nombre:"Camisa informal negra",
+    precio:59000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camisa%20informal%20negra.jpg?alt=media&token=7cda2a2e-f2c2-4673-8fd2-5bce82d0e18d"
+}
+let producto35={
+    nombre:"Chamarra informal negra",
+    precio:89000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chamarra%20informal%20negra%20hombre.jpg?alt=media&token=19e8a30a-5922-42f9-ac3a-3fd378b3505b"
+}
+let producto36={
+    nombre:"Chaqueta de cuero negra",
+    precio:100000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chaqueta%20de%20cuero%20negra.jpg?alt=media&token=ee679e30-7ec1-4391-a3a7-23fb49f52486"
+}
+let producto37={
+    nombre:"Chaqueta de cuero negra",
+    precio:100000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chaqueta%20de%20cuero%20negra.jpg?alt=media&token=ee679e30-7ec1-4391-a3a7-23fb49f52486"
+}
+let producto38={
+    nombre:"Chaqueta de cuero negra",
+    precio:100000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chaqueta%20de%20cuero%20negra.jpg?alt=media&token=ee679e30-7ec1-4391-a3a7-23fb49f52486"
+}
+let producto39={
+    nombre:"Mr. Daddy 2.0 Chronograph Blue Stainless Steel Watch",
+    precio:1100000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Mr.%20Daddy%202.0%20Chronograph%20Blue%20Stainless%20Steel%20Watch.jpg?alt=media&token=0667412a-f8e5-4ff4-9222-59d34d5acae8"
+}
+let producto40={
+    nombre:"Fifa 22 PS4",
+    precio:230000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Fifa%2022%20PS4.jpg?alt=media&token=80b02d17-7bf3-4fcc-b6f0-f4996d022658"
+}
+let producto41={
+    nombre:"Fifa 22 PS5",
+    precio:1,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Fifa%2022%20PS5.jpg?alt=media&token=9049d770-1b87-4577-ba8d-b06bc7c158b2"
+}
+let producto42={
+    nombre:"Dragon Ball Z Kakarot PS4",
+    precio:1,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Dragon%20ball%20Z%20kakarot%20PS4.jpg?alt=media&token=71101fac-f0a4-4595-aec2-cac647b58eac"
+}
+let producto43={
+    nombre:"",
+    precio:1,
+    estado:true,
+    popularidad:5,
+    foto:""
+}
+let producto44={
+    nombre:"",
+    precio:1,
+    estado:true,
+    popularidad:5,
+    foto:""
+}
+let producto45={
     nombre:"",
     precio:1,
     estado:true,
@@ -231,13 +345,6 @@ let producto29={
     foto:""
 }
 
-let producto30={
-    nombre:"",
-    precio:1,
-    estado:true,
-    popularidad:5,
-    foto:""
-}
 
 
 //ARREGLO
@@ -272,6 +379,21 @@ let productos=Array(
     producto28,
     producto29,
     producto30,
+    producto31,
+    producto32,
+    producto33,
+    producto34,
+    producto35,
+    producto36,
+    producto37,
+    producto38,
+    producto39,
+    producto40,
+    producto41,
+    producto42,
+    producto43,
+    producto44,
+    producto45,
 
 )
 
@@ -288,7 +410,7 @@ productos.forEach(function(producto){
 
 
     let tarjeta = document.createElement ("div")
-    tarjeta.classList.add ("card")
+    tarjeta.classList.add ("card","h-100","shadow")
 
     let nombreproducto = document.createElement ("h3")
     nombreproducto.classList.add("text-center")
