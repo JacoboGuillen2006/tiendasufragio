@@ -233,7 +233,7 @@ let producto29={
 
 let producto30={
     nombre:"Cuaderno de Dragon ball de 100 hojas",
-    precio:1,
+    precio:5000,
     estado:true,
     popularidad:4,
     foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/cuaderno%20de%20100%20hojas%20de%20dragon%20ball.jpg?alt=media&token=ed30d992-9586-40e5-b52a-46d8c5e2a82d"
@@ -282,18 +282,18 @@ let producto36={
     foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chaqueta%20de%20cuero%20negra.jpg?alt=media&token=ee679e30-7ec1-4391-a3a7-23fb49f52486"
 }
 let producto37={
-    nombre:"Chaqueta de cuero negra",
+    nombre:"Camiseta de Rauw Alejandro gris",
     precio:100000,
     estado:true,
     popularidad:5,
-    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chaqueta%20de%20cuero%20negra.jpg?alt=media&token=ee679e30-7ec1-4391-a3a7-23fb49f52486"
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Camiseta%20de%20rauw%20alejandro.jpg?alt=media&token=babe508e-3511-44cb-a3e2-2fbcfde4eff5"
 }
 let producto38={
-    nombre:"Chaqueta de cuero negra",
+    nombre:"Camiseta del Liverpool 2022",
     precio:100000,
     estado:true,
     popularidad:5,
-    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Chaqueta%20de%20cuero%20negra.jpg?alt=media&token=ee679e30-7ec1-4391-a3a7-23fb49f52486"
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Camiseta%20del%20liverpool%202022.jpg?alt=media&token=2b2b7b6e-4333-4836-9d85-441a9b1199e7"
 }
 let producto39={
     nombre:"Mr. Daddy 2.0 Chronograph Blue Stainless Steel Watch",
@@ -311,38 +311,73 @@ let producto40={
 }
 let producto41={
     nombre:"Fifa 22 PS5",
-    precio:1,
+    precio:230000,
     estado:true,
     popularidad:5,
     foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Fifa%2022%20PS5.jpg?alt=media&token=9049d770-1b87-4577-ba8d-b06bc7c158b2"
 }
 let producto42={
     nombre:"Dragon Ball Z Kakarot PS4",
-    precio:1,
+    precio:115000,
     estado:true,
     popularidad:5,
     foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Dragon%20ball%20Z%20kakarot%20PS4.jpg?alt=media&token=71101fac-f0a4-4595-aec2-cac647b58eac"
 }
 let producto43={
-    nombre:"",
-    precio:1,
+    nombre:"Camiseta de la Juventus visitante 2022",
+    precio:70000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Camiseta%20de%20la%20Juventus%20visitante%202022.jpg?alt=media&token=ae83d19d-4a7c-4ead-bddf-3756157b4c39"
 }
 let producto44={
-    nombre:"",
-    precio:1,
+    nombre:"God of War PS4",
+    precio:80000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/God%20of%20War%20PS4.jpg?alt=media&token=0450c796-c1bc-4a93-9cff-49875ca79db2"
 }
 let producto45={
-    nombre:"",
-    precio:1,
+    nombre:"God Of War III PS4",
+    precio:60000,
     estado:true,
     popularidad:5,
-    foto:""
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/God%20of%20War%20III%20PS4.jpg?alt=media&token=ec73cb02-6a22-4dec-a0d8-120596f0ec7e"
+}
+let producto46={
+    nombre:"Camiseta de Naruto Shippuden",
+    precio:56000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/camiseta%20de%20Naruto%20Shippuden.jpg?alt=media&token=4c9266ff-1302-412e-a872-474ab8044e42"
+}
+let producto47={
+    nombre:"Tenis Jordan retro negros",
+    precio:150000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Tenis%20jordan%20retro%20negros.jpg?alt=media&token=c9b40617-5abd-4ac3-bf11-6d4a3fe72765"
+}
+let producto48={
+    nombre:"Tenis jordan blancos",
+    precio:150000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Tenis%20jordan%20blancos.jpg?alt=media&token=85e8a74c-785e-4e90-8d1a-d3f7da3d513d"
+}
+let producto49={
+    nombre:"Superior Iron Man Vol.1",
+    precio:184000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Superior%20Iron%20Man%20Vol.1.jpg?alt=media&token=627bed38-5bdc-4b2e-b972-5668600dcd7b"
+}
+let producto50={
+    nombre:"Conjunto de entrenamiento hombre",
+    precio:70000,
+    estado:true,
+    popularidad:5,
+    foto:"https://firebasestorage.googleapis.com/v0/b/latiendita-1db59.appspot.com/o/Conjunto%20de%20Entrenamiento.jpg?alt=media&token=9a5b53a9-fa3b-427c-8bba-efded28892fc"
 }
 
 
@@ -394,6 +429,11 @@ let productos=Array(
     producto43,
     producto44,
     producto45,
+    producto46,
+    producto47,
+    producto48,
+    producto49,
+    producto50,
 
 )
 
